@@ -1,3 +1,3 @@
 <?php
-    echo "Hello world! Meu primeiro programa...";
+    echo "Olá mundo! Meu primeiro programa...";
 ?>
